@@ -1,0 +1,9 @@
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\bin\Debug\Exam.ServiceLibrary.Contracts.dll
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\bin\Debug\Exam.ServiceLibrary.Contracts.pdb
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\bin\Debug\ClassLibrary1.Library.dll
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\bin\Debug\ClassLibrary1.Library.pdb
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\obj\Debug\Exam.Infraestructure.Contracts.csproj.AssemblyReference.cache
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\obj\Debug\Exam.Infraestructure.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\obj\Debug\Exam.Infraestructure.Contracts.csproj.CopyComplete
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\obj\Debug\Exam.ServiceLibrary.Contracts.dll
+C:\Users\Holacons\Desktop\Exam\Exam\Exam.ServiceLibrary.Contracts\obj\Debug\Exam.ServiceLibrary.Contracts.pdb

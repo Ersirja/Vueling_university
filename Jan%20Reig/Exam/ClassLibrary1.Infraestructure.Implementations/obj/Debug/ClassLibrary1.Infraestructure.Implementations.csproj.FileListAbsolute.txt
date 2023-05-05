@@ -1,0 +1,2 @@
+C:\Users\Holacons\Desktop\Exam\Exam\ClassLibrary1.Infraestructure.Implementations\obj\Debug\ClassLibrary1.Infraestructure.Implementations.csproj.AssemblyReference.cache
+C:\Users\Holacons\Desktop\Exam\Exam\ClassLibrary1.Infraestructure.Implementations\obj\Debug\ClassLibrary1.Infraestructure.Implementations.csproj.CoreCompileInputs.cache

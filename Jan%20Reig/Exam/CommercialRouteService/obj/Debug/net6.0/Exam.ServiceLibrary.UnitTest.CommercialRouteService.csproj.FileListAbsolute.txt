@@ -1,0 +1,5 @@
+C:\Users\Holacons\Desktop\Exam\Exam\CommercialRouteService\obj\Debug\net6.0\Exam.ServiceLibrary.UnitTest.CommercialRouteService.csproj.AssemblyReference.cache
+C:\Users\Holacons\Desktop\Exam\Exam\CommercialRouteService\obj\Debug\net6.0\Exam.ServiceLibrary.UnitTest.CommercialRouteService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Holacons\Desktop\Exam\Exam\CommercialRouteService\obj\Debug\net6.0\Exam.ServiceLibrary.UnitTest.CommercialRouteService.AssemblyInfoInputs.cache
+C:\Users\Holacons\Desktop\Exam\Exam\CommercialRouteService\obj\Debug\net6.0\Exam.ServiceLibrary.UnitTest.CommercialRouteService.AssemblyInfo.cs
+C:\Users\Holacons\Desktop\Exam\Exam\CommercialRouteService\obj\Debug\net6.0\Exam.ServiceLibrary.UnitTest.CommercialRouteService.csproj.CoreCompileInputs.cache

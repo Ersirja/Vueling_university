@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\DistanceTests\\Exam.ServiceLibrary.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Infraestructure.Implementations\\Exam.Infraestructure.Implementations.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Infraestructure.Implementations\\Exam.Infraestructure.Implementations.csproj",
+        "projectName": "Exam.Infraestructure.Implementations",
+        "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Infraestructure.Implementations\\Exam.Infraestructure.Implementations.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj"
+              },
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj"
+              },
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj",
+        "projectName": "Exam.Library",
+        "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj",
+        "projectName": "Exam.Library.Contracts",
+        "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\DistanceTests\\Exam.ServiceLibrary.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\DistanceTests\\Exam.ServiceLibrary.UnitTest.csproj",
+        "projectName": "Exam.ServiceLibrary.UnitTest",
+        "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\DistanceTests\\Exam.ServiceLibrary.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Holacons\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\DistanceTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Holacons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Infraestructure.Implementations\\Exam.Infraestructure.Implementations.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Infraestructure.Implementations\\Exam.Infraestructure.Implementations.csproj"
+              },
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj"
+              },
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.ServiceLibrary.Contracts\\Exam.Library.Contracts.csproj"
+              },
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj",
+        "projectName": "Exam.Infraestructure.Contracts",
+        "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\Exam.ServiceLibrary.Contracts\\Exam.Infraestructure.Contracts.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj": {
+                "projectPath": "C:\\Users\\Holacons\\Desktop\\Exam\\Exam\\ClassLibrary1.Library\\Exam.Library.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

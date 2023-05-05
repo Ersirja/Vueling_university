@@ -1,0 +1,6 @@
+C:\Users\Holacons\Desktop\Exam\ClassLibrary1\ClassLibrary1.ServiceLibrary.Contracts\bin\Debug\ClassLibrary1.ServiceLibrary.Contracts.dll
+C:\Users\Holacons\Desktop\Exam\ClassLibrary1\ClassLibrary1.ServiceLibrary.Contracts\bin\Debug\ClassLibrary1.ServiceLibrary.Contracts.pdb
+C:\Users\Holacons\Desktop\Exam\ClassLibrary1\ClassLibrary1.ServiceLibrary.Contracts\obj\Debug\ClassLibrary1.ServiceLibrary.Contracts.csproj.AssemblyReference.cache
+C:\Users\Holacons\Desktop\Exam\ClassLibrary1\ClassLibrary1.ServiceLibrary.Contracts\obj\Debug\ClassLibrary1.ServiceLibrary.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Holacons\Desktop\Exam\ClassLibrary1\ClassLibrary1.ServiceLibrary.Contracts\obj\Debug\ClassLibrary1.ServiceLibrary.Contracts.dll
+C:\Users\Holacons\Desktop\Exam\ClassLibrary1\ClassLibrary1.ServiceLibrary.Contracts\obj\Debug\ClassLibrary1.ServiceLibrary.Contracts.pdb
